@@ -2,4 +2,4 @@
 *.env
 
 # Ignore .txt files
-*.txt
+estudiantes_no_entregaron.txt
